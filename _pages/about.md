@@ -17,14 +17,13 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm a Ph.D. candidate in the <a href="https://www.astro.caltech.edu/" target="blank">Caltech Astronomy Department</a> working with Professor Gregg Hallinan on discovering and characterizing slow radio transients in the <a href="https://science.nrao.edu/vlass" target="blank">VLA Sky Survey</a>. Before coming to Caltech, I spent a year at the <a href="https://www.ast.cam.ac.uk/" target="blank">University of Cambridge</a> working with Professor Rob Kennicutt on radio, infrared, and optical measures of star formation rates in nearby galaxies. This work was a continuation of my undergraduate research with Dr. Eric Murphy, which I did while double majoring in Physics and Math at Pomona College.
+I'm a Ph.D. candidate in the <a href="https://www.astro.caltech.edu/" target="blank">Caltech Astronomy Department</a> working with Professor Gregg Hallinan on discovering and characterizing slow radio transients in the <a href="https://science.nrao.edu/vlass" target="blank">VLA Sky Survey</a>. Before coming to Caltech, I spent a year at the <a href="https://www.ast.cam.ac.uk/" target="blank">University of Cambridge</a> working with Professor Rob Kennicutt on radio, infrared, and optical measures of star formation rates in nearby galaxies. This work was a continuation of my undergraduate research with Dr. Eric Murphy, which I did while double majoring in Physics and Math at <a href="https://www.pomona.edu/" target="blank">Pomona College</a>.
 
-
-Sources I discovered in the VLA Sky Survey include: 
+Sources discovered with my radio transient pipeline include:
 <ul>
   <li>A new kind of <a href="https://www.science.org/doi/10.1126/science.abg6037" target="blank"> supernova </a> triggered by the merger of a compact object with a massive star</li>
   <li>Some of the <a href="https://ui.adsabs.harvard.edu/abs/2020ApJ...905...74N/abstract" target="blank"> youngest jets </a> from supermassive black holes</li>
-  <li>A growing list of radio-selected tidal disruption events: <a href="https://ui.adsabs.harvard.edu/abs/2021arXiv210812431S/abstract" target="blank"> (1)</a> <a href="https://ui.adsabs.harvard.edu/abs/2021arXiv210205795R/abstract" target="blank"> (2)</a></li>
+  <li>A growing list of radio-selected tidal disruption event candidates: <a href="https://ui.adsabs.harvard.edu/abs/2021arXiv210812431S/abstract" target="blank"> [TDE 1]</a> <a href="https://ui.adsabs.harvard.edu/abs/2021arXiv210205795R/abstract" target="blank"> [TDE 2]</a></li>
 </ul>
 
 

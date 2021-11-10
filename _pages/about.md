@@ -5,7 +5,7 @@ permalink: /
 description: Theoretically-inclined observational astronomer
 
 profile:
-  align: right
+  align: left
   image: prof_pic.jpg
   address: >
     <p>1216 East California Blvd</p>

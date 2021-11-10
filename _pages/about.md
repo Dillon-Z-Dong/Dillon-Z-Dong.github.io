@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: Ph.D. candidate, Caltech Astronomy
+description: Theoretically-inclined observational astronomer
 
 profile:
   align: right

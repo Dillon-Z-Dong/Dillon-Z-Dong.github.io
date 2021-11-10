@@ -2,13 +2,13 @@
 layout: about
 title: about
 permalink: /
-description: Theoretically-inclined observational astronomer
+description: 
 
 profile:
-  align: left
+  align: right
   image: prof_pic.jpg
   address: >
-    <p>1216 East California Blvd</p>
+    <p>1216 E California Blvd</p>
     <p>MC 249-17</p>
     <p>Pasadena, CA, 91125</p>
 

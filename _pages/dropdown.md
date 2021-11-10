@@ -1,12 +1,8 @@
 ---
 layout: page
-title: submenus
-nav: true
+title: CV
+nav: false
 dropdown: false
-children: 
-    - title: publications
-      permalink: /publications/
-    - title: divider
-    - title: projects
-      permalink: /projects/
 ---
+
+<embed src="Dillon_Dong_CV.pdf" width="800px" height="2100px" />

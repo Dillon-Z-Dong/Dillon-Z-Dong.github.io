@@ -1,10 +1,11 @@
 ---
 layout: page
-title: projects
+title: Research
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: I write code, take radio/optical/infrared observations, and do order-of-magnitude theoretical calculations to identify and characterize astronmical radio sources that vary on human timescales. Here are some of the projects that I've been working on lately:
+
 nav: true
-display_categories: [work, fun]
+display_categories: [Main Projects, Collaborative Work]
 horizontal: false
 ---
 <div class="projects">

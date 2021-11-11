@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research
+title: Projects
 permalink: /projects/
 description: I write code, take radio/optical/infrared observations, and do order-of-magnitude theoretical calculations to identify and characterize astronmical radio sources that vary on human timescales. Here are some of the projects that I've been working on lately:
 

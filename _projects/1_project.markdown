@@ -4,7 +4,7 @@ title: VLASS transient discovery
 description: 
 img: /assets/img/transient_example.png
 importance: 1
-category: Main projects
+category: Main Projects
 ---
 
 I wrote a transient discovery pipeline that (1) catalogs millions of sources in the VLA Sky Survey (VLASS): the largest high-resolution radio sky survey to date, (2) automatically rejects common image artifacts classes, and (3) measures the brightness of each source and estimates the probability that it has changed in brightness relative to previous radio observations of the same field. This process has led to the discovery of thousands of new radio transients, which will be published and released in upcoming survey papers planned for 2022. 

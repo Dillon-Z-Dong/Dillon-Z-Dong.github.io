@@ -1,7 +1,7 @@
 ---
 layout: post
 date: 2021-09-15 15:59:00-0400
-title: A whirlwind of press coverage for my recent paper
+title: Press coverage for my recent paper
 inline: false
 ---
 

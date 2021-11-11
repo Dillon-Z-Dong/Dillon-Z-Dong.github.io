@@ -5,7 +5,7 @@ permalink: /projects/
 description: I write code, take radio/optical/infrared observations, and do order-of-magnitude theoretical calculations to identify and characterize astronmical radio sources that vary on human timescales. Here are some of the projects that I've been working on lately:
 
 nav: true
-display_categories: [Main, Collaborative]
+display_categories: [Main Projects, Collaborations]
 horizontal: false
 ---
 <div class="projects">
